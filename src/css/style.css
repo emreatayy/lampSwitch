@@ -1,0 +1,10 @@
+button {
+    margin-left: 45vw;
+    border: 1px solid blue;
+}
+
+p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
